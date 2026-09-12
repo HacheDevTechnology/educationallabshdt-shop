@@ -1,1 +1,10 @@
-{"id":"ELHDT-MINILAB-30","brand":"EducationalLabsHDT"}
+{
+  "brand": "EducationalLabsHDT",
+  "skus": ["ELHDT-MINILAB-30", "ELHDT-FOCO-14D-001"],
+  "current": {
+    "sku": "ELHDT-FOCO-14D-001",
+    "name": "Kit Foco Escolar 14 Dias",
+    "price_usd": 19,
+    "launched": "2026-09-12"
+  }
+}
